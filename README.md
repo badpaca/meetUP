@@ -3,6 +3,9 @@ An app created to look for food places on campus based on your schedule, and mee
 
 -----
 
+!!!!! On this GitHub directory, please navigate to meetUP/app/src/main/java/ca/ubc/cs/cpsc210/meetup/
+to view all the Java files!!!!!
+
 This app was created for a class I took in Java at UBC. The Java backend work was programmed by myself.
 
 This app was created partly in conjunction with one of my classmates, Kevin Sun. 
